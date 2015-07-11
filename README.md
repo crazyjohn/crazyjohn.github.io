@@ -1,7 +1,7 @@
 
-Stone engine
+Hi
 ===
-[1. Stone引擎是什么？](https://github.com/crazyjohn/crazyjohn.github.io/issues/1)
+hi, guys! this is crazyjohn's blog, everythings here are fucking things, you don't think so? give me a better one.
 
 
 
