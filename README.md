@@ -1,5 +1,5 @@
 
-My Blog
+CrazyJohn's Blog
 ===
 > hi, guys! this is crazyjohn's blog, everythings here are fucking things, you don't think so? show me your code.
 
