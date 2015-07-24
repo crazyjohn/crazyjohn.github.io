@@ -5,7 +5,7 @@ CrazyJohn's Blog
 
 > 你没有来错，这里只卖干货。
 > 
-> 再来首程序员之诗（from yangbo <= i love this guy）。
+> 再来首并发程序员之诗（from yangbo <= i love this guy）。
 
     Future Song
     The Future flatMaps a Future，
