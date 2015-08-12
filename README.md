@@ -18,6 +18,8 @@ CrazyJohn's Blog
 
 
 
-[点击这里进入blog目录](http://crazyjohn.github.io)
+1. [从这里进入我的blog目录](http://crazyjohn.github.io)
+
+2. [从这里进入我目前团队维护的一个wiki](https://github.com/serverBiatch/teamWiki/issues)
 
 
