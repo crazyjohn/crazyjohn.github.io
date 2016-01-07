@@ -1,6 +1,7 @@
 <script>
   var id = parseInt(location.search.substring(1))
+  alert(id)
   location.replace(
       'https://github.com/crazyjohn/crazyjohn.github.io/issues' +
-          (id ? '/' + id : '?labels!=ING'))
+          (id ? '/' + id : '?labels=db'))
 </script>
